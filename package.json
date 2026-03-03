@@ -1,0 +1,13 @@
+{
+  "name": "ghost-flyff-bot",
+  "version": "1.0.0",
+  "description": "World Boss Timer Bot",
+  "main": "m.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node m.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
