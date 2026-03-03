@@ -14,7 +14,7 @@ let lastOneMinCycle = -1;
 
 const RESPAWN_INTERVAL = (2 * 60 + 3) * 60 * 1000;
 
-const START_TIME = new Date("2026-03-03T05:53:00+08:00"); //dto ko papalitan time pagkapatay ng wb
+const START_TIME = new Date("2026-03-03T16:05:00+08:00"); //dto ko papalitan time pagkapatay ng wb
 
 const bosses = [
   {
